@@ -6,3 +6,5 @@ Once the schedule is generated:
 2) Announce the schedule to students so that everyone knows when they attend in-person.
 
 The program has been tested and generates correct schedule however, no liability lies with the author in case of incorrect output. Quickly check a sample to confirm that all dates are correct.
+
+The program generates a text file with group schedule.
