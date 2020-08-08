@@ -7,4 +7,13 @@ Once the schedule is generated:
 
 The program has been tested and generates correct schedule however, no liability lies with the author in case of incorrect output. Quickly check a sample to confirm that all dates are correct.
 
-The program generates a text file with group schedule.
+Run through Command Line:
+
+Open command prompt
+Get to the folder where you downloaded the .py file
+Type 
+Python grp_schedule.py
+
+or run directly in your Python IDE of choice.
+
+The program generates a text file with group schedule in the same folder as .py file.
